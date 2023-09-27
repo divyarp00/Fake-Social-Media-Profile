@@ -30,6 +30,8 @@ This project is developed by the Hacktive Architects team, focuses on detecting 
 
 
 ## Demo
+![Uploading image.png…]()
+
 Link of the video or screenshots 
 
 ## Technologies Used:
