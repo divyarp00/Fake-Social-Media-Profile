@@ -30,9 +30,7 @@ This project is developed by the Hacktive Architects team, focuses on detecting 
 
 
 ## Demo
-![Uploading image.png…]()
-
-Link of the video or screenshots 
+https://github.com/divyarp00/Fake-Social-Media-Profile/blob/main/Screenshot%202023-09-27%20141437.png
 
 ## Technologies Used:
 *Python:* This is the programming language in which our project is primarily developed.
